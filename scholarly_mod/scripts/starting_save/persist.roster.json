@@ -1,0 +1,136 @@
+{
+    "version": 513,
+    "data": {
+        "nextGuid": 5,
+        "heroes": {
+            "1": {
+                "roster.status": 1,
+                "roster.missing_duration": 0,
+                "roster.story_variation": 0,
+                "roster.missing_from": 0,
+                "roster.building_name": "",
+                "actor": {
+                    "name_id": "hero_name_reynauld",
+                    "current_hp": 26,
+                    "stunned": 0,
+                    "ranks": 1,
+                    "combat_ready": false,
+                    "damage_source": "",
+                    "damage_source_type": 0,
+                    "damage_type": 0,
+                    "buff_group": {}
+                },
+                "heroClass": "hellion",
+                "resolveXp": 0,
+                "stress": 10,
+                "weapon_rank": 0,
+                "armour_rank": 0,
+                "affliction_severity": 0,
+                "affliction_type_id": "",
+                "quirks": {
+                    "clutch_hitter": 
+                    {
+                        "is_new": false,
+                        "is_locked": false,
+                        "mission_count": 0
+                    },
+                    "automatonophobia":  
+                    {
+                        "is_new": false,
+                        "is_locked": false,
+                        "mission_count": 0
+                    },
+                    "dipsomania":  
+                    {
+                        "is_new": false,
+                        "is_locked": false,
+                        "mission_count": 0
+                    }
+                },
+                "skills": {
+                    "selected_combat_skills": {
+                        "wicked_hack": 0,
+                        "iron_swan": 0,
+                        "barbaric_yawp": 0,
+                        "breakthru": 0
+                    },
+                    "selected_camping_skills": {
+                        "encourage": 0,
+                        "revel": 0,
+                        "reject_the_gods": 0
+                    }
+                },
+                "trinkets": {
+                    "system_config_type": "hero_equipped_trinkets",
+                    "items": {}
+                }
+            },
+            "2": {
+                "roster.status": 1,
+                "roster.missing_duration": 0,
+                "roster.story_variation": 0,
+                "roster.missing_from": 0,
+                "roster.building_name": "",
+                "actor": {
+                    "name_id": "hero_name_dismas",
+                    "current_hp": 19,
+                    "stunned": 0,
+                    "ranks": 2,
+                    "combat_ready": false,
+                    "damage_source": "",
+                    "damage_source_type": 0,
+                    "damage_type": 0,
+                    "buff_group": {}
+                },
+                "heroClass": "jester",
+                "resolveXp": 0,
+                "stress": 10,
+                "weapon_rank": 0,
+                "armour_rank": 0,
+                "affliction_severity": 0,
+                "affliction_type_id": "",
+                "quirks": {
+                    "early_riser":  
+                    {
+                        "is_new": false,
+                        "is_locked": false,
+                        "mission_count": 0
+                    },
+                    "calm":  
+                    {
+                        "is_new": false,
+                        "is_locked": false,
+                        "mission_count": 0
+                    },
+                    "slayer_of_man":  
+                    {
+                        "is_new": false,
+                        "is_locked": false,
+                        "mission_count": 0
+                    }
+                },
+                "skills": {
+                    "selected_combat_skills": {
+                        "dirk_stab": 0,
+                        "harvest": 0,
+                        "heroic_end": 0,
+                        "inspiring_tune": 0
+                    },
+                    "selected_camping_skills": {
+                        "first_aid": 0,
+                        "every_rose": 0,
+                        "tigers_eye": 0
+                    }
+                },
+                "trinkets": {
+                    "system_config_type": "hero_equipped_trinkets",
+                    "items": {}
+                }
+            }
+        },
+        "last_party":
+        {
+            "last_party_guids": [-1,-1,2,1]
+        }
+    }
+}

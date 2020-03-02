@@ -1,0 +1,4 @@
+trinkets/crimson_court.entries.trinkets.json 23225
+modfiles.txt 91
+preview_icon.png 172822
+project.xml 1066

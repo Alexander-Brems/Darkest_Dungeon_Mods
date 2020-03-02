@@ -1,0 +1,108 @@
+{
+    "version": 1,
+    "data":
+    {
+        "purchases":
+        {
+            "hellion.wicked_hack":
+            {
+                "instance_number": 1,
+                "tree_id": 151890549,
+                "requirement_code": "0",
+                "is_purchased": true
+            },
+            "hellion.iron_swan":
+            {
+                "instance_number": 1,
+                "tree_id": 3272252003,
+                "requirement_code": "0",
+                "is_purchased": true
+            },
+            "hellion.barbaric_yawp":
+            {
+                "instance_number": 1,
+                "tree_id": 3782681684,
+                "requirement_code": "0",
+                "is_purchased": true
+            },
+            "hellion.breakthru":
+            {
+                "instance_number": 1,
+                "tree_id": 2421046822,
+                "requirement_code": "0",
+                "is_purchased": true
+            },
+            "hellion.encourage":
+            {
+                "instance_number": 1,
+                "tree_id": 2914419792,
+                "requirement_code": "0",
+                "is_purchased": true
+            },
+            "hellion.revel":
+            {
+                "instance_number": 1,
+                "tree_id": 55785921,
+                "requirement_code": "0",
+                "is_purchased": true
+            },
+            "hellion.reject_the_gods":
+            {
+                "instance_number": 1,
+                "tree_id": 3709492061,
+                "requirement_code": "0",
+                "is_purchased": true
+            },
+            "jester.dirk_stab":
+            {
+                "instance_number": 2,
+                "tree_id": 1338591123,
+                "requirement_code": "0",
+                "is_purchased": true
+            },
+            "jester.harvest":
+            {
+                "instance_number": 2,
+                "tree_id": 4152537055,
+                "requirement_code": "0",
+                "is_purchased": true
+            },
+            "jester.heroic_end":
+            {
+                "instance_number": 2,
+                "tree_id": 3773045988,
+                "requirement_code": "0",
+                "is_purchased": true
+            },
+            "jester.inspiring_tune":
+            {
+                "instance_number": 2,
+                "tree_id": 2605406102,
+                "requirement_code": "0",
+                "is_purchased": true
+            },
+            "jester.first_aid":
+            {
+                "instance_number": 2,
+                "tree_id": 1087292672,
+                "requirement_code": "0",
+                "is_purchased": true
+            },
+            "jester.every_rose":
+            {
+                "instance_number": 2,
+                "tree_id": 4200986826,
+                "requirement_code": "0",
+                "is_purchased": true
+            },
+            "jester.tigers_eye":
+            {
+                "instance_number": 2,
+                "tree_id": 3148831085,
+                "requirement_code": "0",
+                "is_purchased": true
+            }
+        },
+        "discounts": { }
+    }
+}
